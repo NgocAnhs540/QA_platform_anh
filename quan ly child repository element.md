@@ -64,15 +64,50 @@ Có thể tìm Xpath của phần tử dựa trên vị trí xung quanh một ph
 -	Description: Mô tả của Element
 -	Status: Trạng thái của Element Active/ Deactive
 
-Click “ ”  để thay đổi Repository của Element
+Click ![3cham](https://user-images.githubusercontent.com/105435351/197490871-756491bf-bdbc-460f-9a51-9b27ed4240c7.png)  để thay đổi Repository của Element
+
+Bước 3: Click “OK”, hệ thống thông báo Create successful và quay lại màn hình thư viện Element Repository, đã bổ sung thêm Element vừa tạo. 
+
+![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+
+*Màn hình Thư viện Element Repository “Login” với Child Repository “Thêm mới” và các Element*
+
+### Chỉnh sửa Element
+
+Bước 1: Tại màn hình Thư viện Element Repository, Click vào “![3cham](https://user-images.githubusercontent.com/105435351/197490871-756491bf-bdbc-460f-9a51-9b27ed4240c7.png)” ở Element muốn chỉnh sửa, chọn “Edit”, hệ thống hiển thị màn hình Edit Element
+
+Bước 2: Nhập thông tin cần chỉnh sửa
+
+![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+
+Bước 3: Click “OK” để cập nhật thông tin vừa chỉnh sửa
+
+Hệ thống thông báo Edit successful, điều hướng quay lại màn hình Repository đang thao tác.
+
+### Xóa Element
+
+Bước 1: Tại màn hình Thư viện Element Repository, Click vào “![3cham](https://user-images.githubusercontent.com/105435351/197490871-756491bf-bdbc-460f-9a51-9b27ed4240c7.png) ” ở Element muốn xoá, chọn “Delete”
+
+![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+
+Bước 2: Chọn “Delete” để xoá Element, hệ thống hiển thị popup xác nhận xoá
+
+![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+
+Bước 3: Xác nhận thao tác:
+
+- Click “DELETE” để xác nhận xoá, hệ thống thông báo Delete successful, danh sách Element được cập nhật đã loại bỏ Element vừa thao tác xoá.
+  
+- Hành động xoá không thể hoàn tác, nếu chưa xác định có nên xoá Element này hay không, người dùng nhấn ‘CANCEL” để huỷ.
+
+### Tạo bản sao Element
+
+Bước 1: Tại màn hình Thư viện Element Repository, Click vào “![3cham](https://user-images.githubusercontent.com/105435351/197490871-756491bf-bdbc-460f-9a51-9b27ed4240c7.png)” ở Element muốn tạo bản sao, chọn “Duplicate"
+
+Bước 2: Nhập thông tin tương tự chỉnh sửa Element
 
 
-
-
-
-
-
-
+  ước 3: Click “OK”, hệ thống thông báo Duplicated successful.
 
 
 
