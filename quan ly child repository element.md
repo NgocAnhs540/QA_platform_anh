@@ -106,8 +106,9 @@ Bước 1: Tại màn hình Thư viện Element Repository, Click vào “![3cha
 
 Bước 2: Nhập thông tin tương tự chỉnh sửa Element
 
+![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
 
-  ước 3: Click “OK”, hệ thống thông báo Duplicated successful.
+Bước 3: Click “OK”, hệ thống thông báo Duplicated successful.
 
 
 
