@@ -66,16 +66,17 @@ Từ màn hình hệ thống, click vào Project cần tác nghiệp
 
 Để quay lại màn hình thiết lập hệ thống, click vào Icon Account, chọn “Project Setting”
 
-<img src="https://user-images.githubusercontent.com/105435351/198543183-0a5dfb44-5c6c-4c59-bf50-2c1da4d27dc6.png" width="25%" />
+![editproject2](/test-framework-api/guest/doc-file/doc-file/e5ff2a9b-57f4-4138-9b2e-810254dd1f20/2.3.1.png)
 
 ***View/ Chỉnh sửa tài khoản người dùng***
 
-Bước 1: Click vào Icon Account, chọn ‘VIEW PROFILE”
+Bước 1: Click vào Icon Account, chọn "VIEW PROFILE"
 
-<img src="https://user-images.githubusercontent.com/105435351/198543183-0a5dfb44-5c6c-4c59-bf50-2c1da4d27dc6.png" width="25%" />
+![editproject2](/test-framework-api/guest/doc-file/doc-file/3e04a063-6f8f-404a-919c-7f09f5401d3b/2.3.2.png)
 
 Trên Tab Profile, xem/ chỉnh sửa tên người dùng
 
 Trên Tab Account, chỉnh sửa Password người dùng
 
-<img src="https://user-images.githubusercontent.com/105435351/198543183-0a5dfb44-5c6c-4c59-bf50-2c1da4d27dc6.png" width="25%" />
+![editproject2](/test-framework-api/guest/doc-file/doc-file/3992971b-bc5a-45d9-bed4-3e29af256cac/2.3.3.png)
+
