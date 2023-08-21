@@ -35,4 +35,55 @@ Bước 3: Click “OK”, hệ thống thông báo tạo mới thành công.
 
 ### Chỉnh sửa Element Repository
 
-Bước 1: Trên màn hình Element Repository Library, Click vào “ ” ở cuối Repository cần chỉnh sửa
+Bước 1: Trên màn hình Element Repository Library, Click vào biểu tượng ![3cham](https://user-images.githubusercontent.com/105435351/197490871-756491bf-bdbc-460f-9a51-9b27ed4240c7.png) ở cuối Repository cần chỉnh sửa
+
+Bước 2: Chọn “Edit”, hệ thống hiển thị màn hình Edit Element Repository
+
+Bước 3: Thực hiện chỉnh sửa thông tin Repository
+
+Bước 4: Click OK, hệ thống thông báo Edited successful, quay về màn hình Repository Library, cập nhật thông tin đã chỉnh sửa trên danh sách.
+
+<img src="https://user-images.githubusercontent.com/105435351/198542962-561f6562-2d76-4583-9b93-376b476493b8.png" width="35%" />
+
+*Màn hình Edit Element Repository*
+
+### Xoá Element Repository
+
+Bước 1: Trên màn hình Element Repository Library, Click vào biểu tượng ![3cham](https://user-images.githubusercontent.com/105435351/197490871-756491bf-bdbc-460f-9a51-9b27ed4240c7.png) ở cuối Repository muốn xoá
+
+<img src="https://user-images.githubusercontent.com/105435351/198542962-561f6562-2d76-4583-9b93-376b476493b8.png" width="35%" />
+
+Bước 2: Chọn “Delete”, hệ thống hiển thị popup xác nhận xoá
+
+<img src="https://user-images.githubusercontent.com/105435351/198542962-561f6562-2d76-4583-9b93-376b476493b8.png" width="35%" />
+
+Bước 3: Xác nhận “DELETE”
+
+-	Nếu trong Repository có chứa Element, hệ thống hiển thị thông báo như sau, và hành động xoá không thành công
+
+<img src="https://user-images.githubusercontent.com/105435351/198542962-561f6562-2d76-4583-9b93-376b476493b8.png" width="35%" />
+
+-	Nếu trong Repository không chứa Element, hệ thống thông báo Delete successful, điều hướng về màn hình Repository Library, danh sách Repository không còn chứa Repository đã xoá.
+
+### Delete Element
+
+Bước 1: Trên màn hình Element Repository Library, Click vào biểu tượng ![3cham](https://user-images.githubusercontent.com/105435351/197490871-756491bf-bdbc-460f-9a51-9b27ed4240c7.png) ở cuối Repository muốn xoá element
+
+<img src="https://user-images.githubusercontent.com/105435351/198542962-561f6562-2d76-4583-9b93-376b476493b8.png" width="35%" />
+
+Bước 2: Chọn “Delete all element” để xoá toàn bộ element trong repository đó, hệ thống hiển thị popup xác nhận xoá toàn bộ element trong repository
+
+<img src="https://user-images.githubusercontent.com/105435351/198542962-561f6562-2d76-4583-9b93-376b476493b8.png" width="35%" />
+
+Bước 3: Xác nhận “DELETE”, hệ thống hiển thị thông báo Delete successful, trên danh sách Repository vẫn còn repository vừa thao tác, các element thuộc repository đó bị xoá, các element thuộc child repository thì vẫn được giữ nguyên.
+
+
+
+
+
+
+
+
+
+
+
