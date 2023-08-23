@@ -6,7 +6,7 @@ Sau khi thêm mới một Element Repository, tiến hành thêm Child Repositor
 
 Click vào Repository người dùng muốn thao tác, hệ thống hiển thị màn hình Element Repository Library cùng với các element được tạo trong thư viện.  
 
-![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+![qle1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
 
 
 | Label | Chức năng |
@@ -31,11 +31,11 @@ Trên màn hình Repository, Click “+CREATE ELEMENT REPOSITORY”, thực hi�
 
 Bước 1: Click “+NEW ELEMENT”
 
-![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+![qle2](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
 
 *Hệ thống hiển thị màn hình Create Element*
 
-![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+![qle3](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
 
 Bước 2:  Nhập thông tin cần thiết của Element
 
@@ -47,9 +47,9 @@ Bước 2:  Nhập thông tin cần thiết của Element
 
 Các template có sẵn có thể áp dụng cho Element trong Repository
 
-![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+![qle4](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
 
-![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+![qle5](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
 
 Có thể tìm Xpath của phần tử dựa trên vị trí xung quanh một phần tử khác đã xác định trên hệ thống: 
 -	Below of: Bên dưới
@@ -59,7 +59,7 @@ Có thể tìm Xpath của phần tử dựa trên vị trí xung quanh một ph
 -	Center of: Trung tâm
 -	Left of: Bên trái
 
-![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+![qle6](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
 
 -	Description: Mô tả của Element
 -	Status: Trạng thái của Element Active/ Deactive
@@ -68,7 +68,7 @@ Click ![3cham](https://user-images.githubusercontent.com/105435351/197490871-756
 
 Bước 3: Click “OK”, hệ thống thông báo Create successful và quay lại màn hình thư viện Element Repository, đã bổ sung thêm Element vừa tạo. 
 
-![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+![qle7](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
 
 *Màn hình Thư viện Element Repository “Login” với Child Repository “Thêm mới” và các Element*
 
@@ -78,7 +78,7 @@ Bước 1: Tại màn hình Thư viện Element Repository, Click vào “![3cha
 
 Bước 2: Nhập thông tin cần chỉnh sửa
 
-![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+![qle8](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
 
 Bước 3: Click “OK” để cập nhật thông tin vừa chỉnh sửa
 
@@ -88,11 +88,11 @@ Hệ thống thông báo Edit successful, điều hướng quay lại màn hình
 
 Bước 1: Tại màn hình Thư viện Element Repository, Click vào “![3cham](https://user-images.githubusercontent.com/105435351/197490871-756491bf-bdbc-460f-9a51-9b27ed4240c7.png) ” ở Element muốn xoá, chọn “Delete”
 
-![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+![qle9](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
 
 Bước 2: Chọn “Delete” để xoá Element, hệ thống hiển thị popup xác nhận xoá
 
-![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+![qle10](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
 
 Bước 3: Xác nhận thao tác:
 
@@ -106,7 +106,7 @@ Bước 1: Tại màn hình Thư viện Element Repository, Click vào “![3cha
 
 Bước 2: Nhập thông tin tương tự chỉnh sửa Element
 
-![newrole1](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
+![qle11](https://user-images.githubusercontent.com/105435351/198692362-2950cb9c-d572-466f-a2fd-e08e88cd88bf.png)
 
 Bước 3: Click “OK”, hệ thống thông báo Duplicated successful.
 
