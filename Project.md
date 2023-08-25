@@ -33,7 +33,7 @@ Mỗi một project sẽ có những parameter được sử dụng ở nhiều 
 
 ![create para](/test-framework-api/guest/doc-file/doc-file/867caa75-b7eb-4843-b00a-04ae80d72dfd/create para.png)
 
-Bước 1:	Trên màn hình Projects, click chuột vào biểu tượng ![3cham](https://user-images.githubusercontent.com/105435351/197490871-756491bf-bdbc-460f-9a51-9b27ed4240c7.png) tương ứng với project muốn tạo mới parameter
+Bước 1:	Trên màn hình Projects, click chuột vào biểu tượng ![3cham](/test-framework-api/guest/doc-file/doc-file/e9a232d7-73eb-4938-ac58-af13faec857b/3cham.png) tương ứng với project muốn tạo mới parameter
 
 Bước 2:	Click chọn “Set parameter”
 
